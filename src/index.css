@@ -1,0 +1,13 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ h2{
+  font-family: fantasy;
+}
